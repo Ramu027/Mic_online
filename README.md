@@ -55,6 +55,5 @@ HTML       |  100%
 
 ## Email:
 
-mail id is (ramu.mandava@apssdc.in)
-
+mail id is:(ramu.mandava@apssdc.in)
 :smile:
