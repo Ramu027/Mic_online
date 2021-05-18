@@ -52,8 +52,8 @@ Java       |  80%
 HTML       |  100%
 
 
+## Email:
+
+mail id is (ramu.mandava@apssdc.in)
+
 :smile:
-
-## Email
-
-(ramu.mandava@apssdc.in)
